@@ -1,12 +1,6 @@
 
 **[Scene 1: Introduction]**
 
-*Visual: A title card with the text "Understanding Data Structures and Algorithms - The Easy Way." The background is a gradient of vibrant colors, transitioning smoothly from one hue to another, giving a dynamic and inviting feel. The title is animated with a slight bounce effect as it appears, drawing the viewer's attention.*
-
-**Narrator:**
-"Welcome! Today, we’re going to explore what data structures and algorithms are, and why they’re so important in the world of programming. Don’t worry if you’re not a tech expert—we’ll make it simple and fun!"
-
-*Visual: The title card fades out, and the scene transitions to a calm, animated office setting with a friendly character (the narrator) sitting at a desk, ready to explain.*
 
 ---
 
