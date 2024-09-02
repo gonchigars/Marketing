@@ -1,4 +1,3 @@
----
 
 **[Scene 1: Introduction]**
 
